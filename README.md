@@ -10,7 +10,7 @@ This repo contains all accepted submissions of mine in my entire CP career (from
 
 ---
 
-## 🛠️ My C++ Template
+##  My CP Template
 
 ```cpp
 #include<bits/stdc++.h>
